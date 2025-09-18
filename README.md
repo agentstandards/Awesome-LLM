@@ -622,3 +622,9 @@ I will keep some pull requests open if I'm not sure if they are awesome for LLM,
 If you have any question about this opinionated list, do not hesitate to contact me chengxin1998@stu.pku.edu.cn.
 
 [^1]: This is not legal advice. Please contact the original authors of the models for more information.
+
+
+## Resources
+
+- [AI Manifest](https://ai-manifest.org) — optional reference for /.well‑known/ai.json + OpenAPI/JSON Schema discovery (with MCP/agents.json mapping).
+- [WellKnownAI](https://wellknownai.org) — registry/spec examples and public snapshots (no PII, mirroring allowed).
